@@ -1,0 +1,37 @@
+body {
+    background-color: brown;
+    color: gold;
+  
+}
+
+nav {
+    padding-left: 100rem;
+}
+
+.jumbotron {
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+        url(https://i.pinimg.com/564x/b9/17/fd/b917fdc63744ad30426969f6d5402ce8.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    
+} 
+
+.jumbotron2{
+    background:
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+     url(https://i.pinimg.com/564x/13/ee/e2/13eee22e815698375a0cc6107ce5cf75.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+.jumbotron3{
+    background: url(https://i.pinimg.com/564x/2f/ad/a9/2fada9d2abe2719ea544c9c4015e4c32.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+   }
+
+   
